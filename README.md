@@ -1,4 +1,4 @@
-# Simple-projects:
+# Simple projects:
 - Here I will add simple projects. Just to practice how to write code and solve problems.
 ---------------------------------------------
 # Project 1 (Calculator):
