@@ -28,4 +28,5 @@ They are two versions because I wanted to see how different are "user guessing" 
     - when user type something different from h, l and c
       - it's printing not possible number
       - I will fix it someday
+    - enter issue
 - There is plenty of room to improve but for now I'm happy with results
