@@ -12,3 +12,12 @@
     - print message
   - Do it with function/s
   ---------------------------------------------
+  # Project 2 (Guessing game):
+  - Random number will be generated
+  - Someone needs to guess it
+  - Hints (Higher, Lower or Correct)
+    - depends who is guessing
+      - user - h or l
+      - computer - h, l or c
+  - Three lives
+  
