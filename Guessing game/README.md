@@ -15,7 +15,7 @@ Guessing game:
   - Ask the user for "Correct", "Lower" or "Higher"
     - l for "Lower"
     - h for "Higher"
-    - c for Correct
+    - c for "Correct"
   - If the list is out of range
     - print message that is not possible
   - Three lives
