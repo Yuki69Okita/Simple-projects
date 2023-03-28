@@ -24,9 +24,5 @@ They are two versions because I wanted to see how different are "user guessing" 
 - What I see in those two versions:
   - Version 1 is very simple comparison to version 2
   - Version 2 have many statements
-  - Version 2 have a "tiny" problem:
-    - when user type something different from h, l and c
-      - it's printing not possible number
-      - I will fix it someday
-    - enter issue
+  - Version 2 - kind of fixed
 - There is plenty of room to improve but for now I'm happy with results
